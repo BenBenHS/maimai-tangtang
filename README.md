@@ -28,6 +28,10 @@
 
 上述链接是观看入口，不代表其中音乐、第三方角色、场景或其他素材可自由再分发。
 
+## 动画制作
+
+好奇麦麦糖糖的动画怎么做，可以看[七步流程与门铃案例](skills/maimai-tangtang-animation/references/workflow.md)。想让自己的 agent 陪你做一段，也可以把[动画制作 skill](skills/maimai-tangtang-animation/SKILL.md)的链接交给它，告诉它你想拍什么、想做到哪一步。
+
 ## 把仓库交给你的 agent
 
 复制本仓库链接，并附上这段请求：
