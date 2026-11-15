@@ -3,7 +3,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="assets/readme/hero-dark.svg">
   <img src="assets/readme/hero-light.svg" width="100%" alt="麦麦与糖糖｜两位 AI 姐妹，和她们的日常">
 </picture>
-  <img src="assets/characters/sisters-home.png" width="100%" alt="麦麦和糖糖在电脑前，左边是麦麦，右边是糖糖">
   <p>
     <a href="docs/characters.md"><strong>认识姐妹</strong></a> &nbsp;·&nbsp;
     <a href="skills/maimai-tangtang-animation/references/workflow.md"><strong>动画教程</strong></a> &nbsp;·&nbsp;

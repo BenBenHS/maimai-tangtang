@@ -1,10 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 76" width="960" height="76" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 960 111" width="960" height="111" role="img">
 <title>作品</title>
-<rect x="1" y="1" width="958" height="74" rx="16" fill="#fbf6ee" stroke="#e7dbcb" stroke-width="2"/>
-<circle cx="880" cy="38" r="13" fill="#cbddec"/><circle cx="910" cy="38" r="9" fill="#e8c88b"/>
+<defs><linearGradient id="wash"><stop stop-color="#fcf5e8"/><stop offset="1" stop-color="#e3ecf3"/></linearGradient></defs>
 <g font-family="system-ui, 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', sans-serif">
-<text x="820" y="44" text-anchor="end" fill="#4d647a" font-size="16" letter-spacing="3">WATCH</text>
-<text x="40" y="49" text-anchor="start" fill="#2c3746" font-size="29" font-weight="700">作品</text>
-
+<rect width="960" height="111" rx="16" fill="url(#wash)"/>
+<path d="M690 0h270v111H630z" fill="#95adc4" opacity=".15"/>
+<path d="M752 0h208v111H692z" fill="#d29a45" opacity=".13"/>
+<rect x="23" y="19" width="73" height="73" rx="17" fill="#fff9ef"/>
+<g transform="translate(29 29)" fill="none" stroke="#526579" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="8" width="54" height="40" rx="8"/><path d="m26 19 14 9-14 9z"/></g>
+<text x="117" y="51" font-size="32" font-weight="720" fill="#293949">作品</text>
+<text x="119" y="79" font-size="16" fill="#526579">动画、舞蹈与姐妹日常</text>
+<text x="742" y="64" font-size="17" letter-spacing="2.6" text-anchor="middle" fill="#526579">WATCH</text>
+<g transform="translate(863 51)" fill="#95adc4"><ellipse cy="8" rx="9" ry="7"/><circle cx="-10" cy="0" r="3.5"/><circle cx="-4" cy="-6" r="3.5"/><circle cx="4" cy="-6" r="3.5"/><circle cx="10" cy="0" r="3.5"/></g><g transform="translate(910 55)" fill="#d29a45"><ellipse cy="-9" rx="4" ry="7" transform="rotate(0)"/><ellipse cy="-9" rx="4" ry="7" transform="rotate(45)"/><ellipse cy="-9" rx="4" ry="7" transform="rotate(90)"/><ellipse cy="-9" rx="4" ry="7" transform="rotate(135)"/><ellipse cy="-9" rx="4" ry="7" transform="rotate(180)"/><ellipse cy="-9" rx="4" ry="7" transform="rotate(225)"/><ellipse cy="-9" rx="4" ry="7" transform="rotate(270)"/><ellipse cy="-9" rx="4" ry="7" transform="rotate(315)"/><circle r="6" fill="#e3ecf3"/></g>
 </g>
 </svg>
