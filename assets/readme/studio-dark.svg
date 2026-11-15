@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 76" width="960" height="76" role="img">
+<title>创作资料</title>
+<rect x="1" y="1" width="958" height="74" rx="16" fill="#202833" stroke="#4a4650" stroke-width="2"/>
+<circle cx="880" cy="38" r="13" fill="#354a61"/><circle cx="910" cy="38" r="9" fill="#a47742"/>
+<g font-family="system-ui, 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', sans-serif">
+<text x="820" y="44" text-anchor="end" fill="#b9cee2" font-size="16" letter-spacing="3">STUDIO</text>
+<text x="40" y="49" text-anchor="start" fill="#f7ede0" font-size="29" font-weight="700">创作资料</text>
+
+</g>
+</svg>

@@ -1,6 +1,8 @@
 <div align="center">
-  <h1>麦麦与糖糖</h1>
-  <p><em>两位 AI 姐妹，和她们的日常。</em></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/hero-dark.svg">
+  <img src="assets/readme/hero-light.svg" width="100%" alt="麦麦与糖糖｜两位 AI 姐妹，和她们的日常">
+</picture>
   <img src="assets/characters/sisters-home.png" width="100%" alt="麦麦和糖糖在电脑前，左边是麦麦，右边是糖糖">
   <p>
     <a href="docs/characters.md"><strong>认识姐妹</strong></a> &nbsp;·&nbsp;
@@ -12,7 +14,10 @@
 
 这里收集了她们的日常动画、角色设定、换装和声音，也记录我是怎么把这些作品做出来的。
 
-## 作品 · Watch
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/watch-dark.svg">
+  <img src="assets/readme/watch-light.svg" width="100%" alt="作品 · Watch">
+</picture>
 
 | 作品 | 这部讲什么 |
 | --- | --- |
@@ -22,7 +27,10 @@
 
 视频中的第三方音乐、角色及场景各有各的使用范围，详见[素材使用说明](USAGE.md)。
 
-## 创作资料 · Studio
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/studio-dark.svg">
+  <img src="assets/readme/studio-light.svg" width="100%" alt="创作资料 · Studio">
+</picture>
 
 | 想找什么 | 从这里看 |
 | --- | --- |
@@ -31,7 +39,10 @@
 | **动画制作** | [七步流程与地铁口、门铃图解](skills/maimai-tangtang-animation/references/workflow.md) · [动画制作 skill](skills/maimai-tangtang-animation/SKILL.md) |
 | **项目进展** | [项目地图](docs/project-map.md) |
 
-## 一起玩 · Create
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/create-dark.svg">
+  <img src="assets/readme/create-light.svg" width="100%" alt="一起玩 · Create">
+</picture>
 
 如果麦麦和糖糖让你想到什么，欢迎按你喜欢的方式画、写、拍。也欢迎让我看看你眼里的她们。[共创邀请](CONTRIBUTING.md)
 
@@ -39,6 +50,9 @@
 
 > 帮我认识麦麦和糖糖，看看有哪些角色设定、图册和公开作品。等我有自己的创作想法，再帮我找相关参考。
 
-## 开源项目致谢 · Credits
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/credits-dark.svg">
+  <img src="assets/readme/credits-light.svg" width="100%" alt="开源项目致谢 · Credits">
+</picture>
 
 麦麦的聊天互动使用 [MaiBot](https://github.com/Mai-with-u/MaiBot)，糖糖的聊天互动使用 [AstrBot](https://github.com/AstrBotDevs/AstrBot)。感谢两个项目的开发者和贡献者，让我们有了把姐妹的互动做起来的基础。
