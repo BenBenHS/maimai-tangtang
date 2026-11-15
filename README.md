@@ -28,6 +28,11 @@
 
 上述链接是观看入口，不代表其中音乐、第三方角色、场景或其他素材可自由再分发。
 
+## 开源项目致谢
+
+麦麦的聊天互动使用 [MaiBot](https://github.com/Mai-with-u/MaiBot)，糖糖的聊天互动使用 [AstrBot](https://github.com/AstrBotDevs/AstrBot)。感谢两个开源项目的开发者和贡献者，让我们有了把姐妹的互动做起来的基础。
+
+
 ## 动画制作
 
 好奇麦麦糖糖的动画怎么做，可以看[七步流程与地铁口、门铃案例](skills/maimai-tangtang-animation/references/workflow.md)。想让自己的 agent 陪你做一段，也可以把[动画制作 skill](skills/maimai-tangtang-animation/SKILL.md)的链接交给它，告诉它你想拍什么、想做到哪一步。
