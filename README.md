@@ -12,6 +12,22 @@
 
 这里收集了她们的日常动画、角色设定、换装和声音，也记录我是怎么把这些作品做出来的。
 
+## 拿自己的剧本试一镜
+
+如果你的 AI 能打开 GitHub，可以发给它 [动画制作 Skill](https://github.com/BenBenHS/maimai-tangtang/blob/main/skills/maimai-tangtang-animation/SKILL.md) 和剧本，请它按这套流程拆镜。用普通聊天框、打不开链接或传不上文件时，直接复制下面整段，把末尾换成你的剧本正文，就可以先试文字分镜。想自己看案例，可以从[七步流程与地铁口、门铃图解](https://github.com/BenBenHS/maimai-tangtang/blob/main/skills/maimai-tangtang-animation/references/workflow.md)看起。
+
+```text
+请把下面这段剧本拆成动画分镜。我想先看文字方案。
+
+1. 保留原来的剧情和对白，按镜头列出「镜号、景别或机位、开镜画面、人物动作与对白、估计时长」。
+2. 每镜说明观众先看到什么，镜头怎么动或什么时候切。有人物反应时，写清楚哪里可以留一拍。
+3. 每镜列出需要的角色和场景参考，再给一条首帧图提示词，写清构图、人物站位、画风、配色和光线。没给参考图的地方标为待补。
+4. 先交付文字分镜、参考图清单和首帧提示词。等我选定镜头，再继续做图或视频。
+
+我的剧本：
+（把这行换成你自己的剧本。第一次可以只贴两三句对白。）
+```
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/readme/watch-dark.svg">
   <img src="assets/readme/watch-light.svg" width="100%" alt="作品 · Watch">
