@@ -50,7 +50,7 @@
 | --- | --- |
 | **角色与服装** | [角色介绍和基础三视图](docs/characters.md) · [190 张服装人设图](docs/outfit-designs.md) · [直播换装立绘](docs/wardrobe.md) |
 | **声音与翻唱** | [豆包情绪语音试听 · RVC 翻唱模型下载](docs/voice.md) |
-| **动画制作** | [七步流程与地铁口、门铃图解](skills/maimai-tangtang-animation/references/workflow.md) · [动画制作 skill](skills/maimai-tangtang-animation/SKILL.md) |
+| **动画制作** | [七步流程与地铁口、门铃图解](skills/maimai-tangtang-animation/references/workflow.md) · [动画制作 skill](skills/maimai-tangtang-animation/SKILL.md) · [首帧画风 skill](skills/mmt-cel-first-frame/SKILL.md) |
 | **项目进展** | [项目地图](docs/project-map.md) |
 
 <picture>
