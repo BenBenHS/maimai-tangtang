@@ -12,6 +12,13 @@
 
 这里收集了她们的日常动画、角色设定、换装和声音，也记录我是怎么把这些作品做出来的。
 
+## 两期教程跟练包
+
+2026-11-20更新：[《麦麦起床》与《再扫一遍》跟练资料](docs/tutorial-practice.md)，包含两期七镜首帧、分镜和提示词，以及当前人设、指定声线、新家72机位和最新Blender工程。
+
+**[下载完整ZIP](https://github.com/BenBenHS/maimai-tangtang/releases/download/practice-kit-20261120/maimai-tangtang-tutorial-practice-20261120.zip) · [夸克网盘](https://pan.quark.cn/s/8b0b805485dd) · [在线查看与使用说明](docs/tutorial-practice.md)**
+
+
 ## 拿自己的剧本试一镜
 
 如果你的 AI 能打开 GitHub，可以发给它 [动画制作 Skill](https://github.com/BenBenHS/maimai-tangtang/blob/main/skills/maimai-tangtang-animation/SKILL.md) 和剧本，请它按这套流程拆镜。用普通聊天框、打不开链接或传不上文件时，直接复制下面整段，把末尾换成你的剧本正文，就可以先试文字分镜。想自己看案例，可以从[七步流程与地铁口、门铃图解](https://github.com/BenBenHS/maimai-tangtang/blob/main/skills/maimai-tangtang-animation/references/workflow.md)看起。

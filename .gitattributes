@@ -1,0 +1,3 @@
+
+# Preserve published tutorial files exactly as checked and hashed.
+tutorials/practice-kit-20261120/** -text
